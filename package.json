@@ -22,7 +22,7 @@
     "coffee-script": "~1.4.0",
     "express": "~3.0.6",
     "mocha": "~1.7.4",
-    "underscore": "~1.4.3",
+    "underscore": "~1.13.7",
     "forever": "~0.10.0"
   },
   "licenses": [
